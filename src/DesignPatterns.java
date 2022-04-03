@@ -4,10 +4,11 @@ import CreationalPatterns.AbstractFactory.AbstractFactoryExampleRunner;
 import CreationalPatterns.Builder.BuilderExampleRunner;
 import CreationalPatterns.FactoryMethod.FactoryMethodExampleRunner;
 import Runner.ExampleRunner;
+import StructuralPatterns.Decorator.DecoratorExampleRunner;
 
 public class DesignPatterns {
     public static void main(String[] args) {
-        ExampleRunner runner = new TemplateMethodExampleRunner();
+        ExampleRunner runner = new DecoratorExampleRunner();
         runner.run();
     }
 }
