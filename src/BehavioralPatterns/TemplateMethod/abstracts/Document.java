@@ -1,4 +1,4 @@
-package BehavioralPatterns.TemplateMethod.AbstractClass;
+package BehavioralPatterns.TemplateMethod.abstracts;
 
 public abstract class Document {
 

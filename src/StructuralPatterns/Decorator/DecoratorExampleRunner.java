@@ -1,11 +1,10 @@
 package StructuralPatterns.Decorator;
 
 import Runner.ExampleRunner;
-import StructuralPatterns.Decorator.Component.TextView;
-import StructuralPatterns.Decorator.Component.TextVisualComponent;
-import StructuralPatterns.Decorator.Decorator.BorderDecorator;
-import StructuralPatterns.Decorator.Decorator.Decorator;
-import StructuralPatterns.Decorator.Decorator.ScrollDecorator;
+import StructuralPatterns.Decorator.component.TextView;
+import StructuralPatterns.Decorator.component.TextVisualComponent;
+import StructuralPatterns.Decorator.decorator.BorderDecorator;
+import StructuralPatterns.Decorator.decorator.ScrollDecorator;
 
 public class DecoratorExampleRunner implements ExampleRunner {
 

@@ -1,8 +1,8 @@
 package BehavioralPatterns.TemplateMethod;
 
-import BehavioralPatterns.TemplateMethod.AbstractClass.Application;
-import BehavioralPatterns.TemplateMethod.ConcreteClass.DrawApplication;
-import BehavioralPatterns.TemplateMethod.ConcreteClass.SpreadSheetApplication;
+import BehavioralPatterns.TemplateMethod.abstracts.Application;
+import BehavioralPatterns.TemplateMethod.concretes.DrawApplication;
+import BehavioralPatterns.TemplateMethod.concretes.SpreadSheetApplication;
 import Runner.ExampleRunner;
 
 public class TemplateMethodExampleRunner implements ExampleRunner {

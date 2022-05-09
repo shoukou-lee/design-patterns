@@ -1,6 +1,6 @@
-package StructuralPatterns.Decorator.Decorator;
+package StructuralPatterns.Decorator.decorator;
 
-import StructuralPatterns.Decorator.Component.TextVisualComponent;
+import StructuralPatterns.Decorator.component.TextVisualComponent;
 
 public abstract class Decorator implements TextVisualComponent {
 

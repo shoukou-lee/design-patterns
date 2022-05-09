@@ -1,7 +1,7 @@
-package BehavioralPatterns.TemplateMethod.ConcreteClass;
+package BehavioralPatterns.TemplateMethod.concretes;
 
-import BehavioralPatterns.TemplateMethod.AbstractClass.Application;
-import BehavioralPatterns.TemplateMethod.AbstractClass.Document;
+import BehavioralPatterns.TemplateMethod.abstracts.Application;
+import BehavioralPatterns.TemplateMethod.abstracts.Document;
 
 public class SpreadSheetApplication extends Application {
 

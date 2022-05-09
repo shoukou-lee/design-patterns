@@ -1,4 +1,4 @@
-package StructuralPatterns.Decorator.Component;
+package StructuralPatterns.Decorator.component;
 
 public interface TextVisualComponent {
 
