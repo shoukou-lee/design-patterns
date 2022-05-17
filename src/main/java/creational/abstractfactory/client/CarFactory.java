@@ -21,5 +21,4 @@ public class CarFactory {
         return new Car(wheel, steeringWheel, fuelDoor);
     }
 
-
 }
