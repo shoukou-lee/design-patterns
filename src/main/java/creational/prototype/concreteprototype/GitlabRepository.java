@@ -1,4 +1,4 @@
-package creational.prototype.concrete;
+package creational.prototype.concreteprototype;
 
 import creational.prototype.MergeRequest;
 import creational.prototype.prototype.Repository;

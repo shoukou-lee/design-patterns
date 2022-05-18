@@ -1,7 +1,7 @@
 package creational.prototype;
 
-import creational.prototype.concrete.GithubRepository;
-import creational.prototype.concrete.GitlabRepository;
+import creational.prototype.concreteprototype.GithubRepository;
+import creational.prototype.concreteprototype.GitlabRepository;
 import creational.prototype.prototype.Repository;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
