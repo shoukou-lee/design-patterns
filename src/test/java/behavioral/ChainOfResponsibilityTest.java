@@ -1,4 +1,4 @@
-package behavioral.chainofresponsibility;
+package behavioral;
 
 import behavioral.chainofresponsibility.concretehandler.AuthenticationHandler;
 import behavioral.chainofresponsibility.concretehandler.AuthorizationHandler;

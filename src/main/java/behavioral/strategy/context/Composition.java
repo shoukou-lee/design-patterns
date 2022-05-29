@@ -1,7 +1,7 @@
-package BehavioralPatterns.Strategy.context;
+package behavioral.strategy.context;
 
-import BehavioralPatterns.Strategy.strategy.Compositor;
-import BehavioralPatterns.Strategy.strategy.SimpleCompositor;
+import behavioral.strategy.strategy.Compositor;
+import behavioral.strategy.strategy.SimpleCompositor;
 
 import java.util.List;
 

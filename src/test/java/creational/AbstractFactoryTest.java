@@ -1,4 +1,4 @@
-package creational.abstractfactory;
+package creational;
 
 import creational.abstractfactory.client.Car;
 import creational.abstractfactory.client.CarFactory;

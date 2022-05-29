@@ -1,5 +1,7 @@
-package creational.prototype;
+package creational;
 
+import creational.prototype.MergeRequest;
+import creational.prototype.PullRequest;
 import creational.prototype.concreteprototype.GithubRepository;
 import creational.prototype.concreteprototype.GitlabRepository;
 import creational.prototype.prototype.Repository;

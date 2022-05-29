@@ -1,4 +1,4 @@
-package structural.bridge;
+package structural;
 
 import org.junit.jupiter.api.Test;
 import structural.bridge.abstraction.GymRat;

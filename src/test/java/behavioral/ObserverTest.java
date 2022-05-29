@@ -1,4 +1,4 @@
-package behavioral.observer;
+package behavioral;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

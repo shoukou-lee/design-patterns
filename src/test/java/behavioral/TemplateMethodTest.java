@@ -1,4 +1,4 @@
-package behavioral.templatemethod;
+package behavioral;
 
 import behavioral.templatemethod.abstracts.FileProcessor;
 import behavioral.templatemethod.abstracts.FileProcessorTemplateCallback;

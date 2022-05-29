@@ -1,4 +1,4 @@
-package creational.factorymethod;
+package creational;
 
 import creational.factorymethod.client.Client;
 import creational.factorymethod.creator.BlackShipFactory;
